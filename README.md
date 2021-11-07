@@ -17,9 +17,7 @@ a). Line Total against each item   b). Subtotal without tax   c). Subtotal with 
 ###### 2. Create a new database in mysql with name "shopping" 
 ###### 3. Open the database folder and import the sql file into new created database.
 
+    http://localhost/fingent_cart/   
 
-```bash
-http://localhost/fingent_cart/   
-```
 
 
