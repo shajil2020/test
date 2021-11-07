@@ -13,9 +13,9 @@ a). Line Total against each item   b). Subtotal without tax   c). Subtotal with 
 
 ## Configuration 
 
-###### 1. Extract the folder into "  C:\xampp\htdocs "
+###### 1. Extract the folder and copy fingent_cart folder into "  C:\xampp\htdocs "
 ###### 2. Create a new database in mysql with name "shopping" 
-###### 3. Open the database folder and import the sql file into new created database.
+###### 3. Open the database folder and import the file shopping.sql into newly created database.
 
     http://localhost/fingent_cart/   
 
