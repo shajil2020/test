@@ -18,9 +18,9 @@ Build an application that can be used to generate Invoices.
 
 ## Configuration 
 
-1.Extract the folder into "  C:\xampp\htdocs "
-2.Create a new database in mysql with name "shopping" 
-3.open the database folder and import the sql file into new created database.
+###### 1. Extract the folder into "  C:\xampp\htdocs "
+###### 2. Create a new database in mysql with name "shopping" 
+###### 3. Open the database folder and import the sql file into new created database.
 
 
 ```bash
